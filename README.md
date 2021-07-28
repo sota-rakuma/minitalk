@@ -1,6 +1,6 @@
 # minitalk
 
-#signal communication
+*signal communication*
 
 
 I don't perfectly understand usage of the third param of sigaction and sa_sigaction.
